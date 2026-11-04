@@ -1,6 +1,6 @@
 # Davide Bason
 
-Physicist (PhD), former postdoc at Tsinghua University, turning to data.
+Physicist (PhD), former postdoc at Tsinghua University, turning to data. Looking for data and R&D roles in the Netherlands.
 
 ## Projects
 
